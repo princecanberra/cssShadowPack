@@ -5,3 +5,5 @@ This is the css shadow package that include many css files and easy to use with 
 
 You can take any of these css files that suitable for your project, by selected individual file from thi package or
 you can use for whole file. 
+
+You can also edit background and the demensoin of the shadow to suite your project.
