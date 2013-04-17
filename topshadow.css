@@ -1,4 +1,6 @@
 .topshadow
 {
   box-shadow: 0px -10px 10px -10px gray;
+  -moz-box-shadow: 0px -10px -10px -10px gray;
+  -webkit-box-shadow: 0px -10px -10px -10px gray; 
 }
