@@ -1,4 +1,6 @@
 .bottomshadow
 {
   box-shadow: 0 4px 2px -1px gray;
+  -moz-box-shadow: 0 4px 2px -1px gray;
+  -webkit-box-shadow: 0 4px 2px -1px gray;
 }

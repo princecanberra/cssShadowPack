@@ -1,4 +1,6 @@
 .topleft
 {
   box-shadow: -5px -5px lightgray;
+  -moz-box-shadow: -5px -5px lightgray;
+  -webkit-box-shadow: -5px -5px lightgray;
 }
